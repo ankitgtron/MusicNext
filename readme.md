@@ -71,13 +71,13 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**  
   1. Initialize a Next.js 12 project and configure Tailwind CSS.  
      - **Reading:** [Next.js Setup Guide](https://nextjs.org/docs/getting-started)  
-     - **Video:** [Next.js Crash Course](https://www.youtube.com/watch?v=AKNvTxWOdKw)  
+     - **Video:** [Next.js Crash Course](https://www.youtube.com/watch?v=mTz0GXj8NN0&t=9s)  
   2. Implement Spotify integration setup.  
      - **Reading:** [Spotify API Documentation](https://developer.spotify.com/documentation/web-api/)  
-     - **Video:** [Spotify API Integration](https://www.youtube.com/watch?v=XBWfEqTZ4bk)  
+     - **Video:** [Spotify API Integration](https://www.youtube.com/watch?v=SbelQW2JaDQ)  
   3. Build the sidebar component for navigation.  
      - **Reading:** [Tailwind Components](https://tailwindui.com/)  
-     - **Video:** [Building Responsive Sidebars](https://www.youtube.com/watch?v=4q2vvZn5aoo)  
+     - **Video:** [Building Responsive Sidebars](https://www.youtube.com/watch?v=_9mTJ84uL1Q&t=2585s)  
 
 - **Deliverables:**  
   - A functional project setup with a responsive sidebar.
@@ -92,7 +92,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [NextAuth Authentication](https://www.youtube.com/watch?v=RHFmsoiVtKE)  
   2. Implement middleware for route protection.  
      - **Reading:** [Next.js Middleware](https://nextjs.org/docs/middleware)  
-     - **Video:** [Next.js Middleware Tutorial](https://www.youtube.com/watch?v=HxWMJf0BdxM)  
+     - **Video:** [Next.js Middleware Tutorial](https://www.youtube.com/watch?v=9dqCNjsGnsk&t=1s)  
 
 - **Deliverables:**  
   - Secure authentication with protected routes.
@@ -103,11 +103,11 @@ This project is structured to ensure a systematic and incremental development pr
 - **Goal:** Build the main content area and music player.  
 - **Tasks:**  
   1. Design the center component to display playlists and songs.  
-     - **Reading:** [React State Management](https://reactjs.org/docs/hooks-state.html)  
-     - **Video:** [Building Center Components](https://www.youtube.com/watch?v=2jT3HlRE5Hg)  
+     - **Reading:** [Layout](https://nextjs.org/learn-pages-router/basics/assets-metadata-css/layout-component)  
+     - **Video:** [Building Center Components](https://www.youtube.com/watch?v=jWi8d3SJYN0&t=155s)  
   2. Implement the player component for music playback.  
      - **Reading:** [Spotify Playback SDK](https://developer.spotify.com/documentation/web-playback-sdk/)  
-     - **Video:** [Building Music Players](https://www.youtube.com/watch?v=kK1a4nEPJwg)  
+     - **Video:** [Building Music Players](https://www.youtube.com/watch?v=kpkIGDlW-p8&list=PL1xND_gfiYu7CdkH5uXTPggrUtUuwQ5VD)  
 
 - **Deliverables:**  
   - Functional center and player components.
@@ -119,10 +119,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**  
   1. Integrate Recoil for state management.  
      - **Reading:** [Recoil Documentation](https://recoiljs.org/docs/introduction/getting-started)  
-     - **Video:** [Recoil State Management](https://www.youtube.com/watch?v=_ISAA_Jt9kI)  
+     - **Video:** [Recoil State Management](https://www.youtube.com/watch?v=E_OJ-sAfrYs)  
   2. Add volume control and debouncing functionality.  
      - **Reading:** [Debouncing in JavaScript](https://www.geeksforgeeks.org/debouncing-in-javascript/)  
-     - **Video:** [Debouncing Explained](https://www.youtube.com/watch?v=IbteEG15pHw)  
+     - **Video:** [Debouncing Explained](https://www.youtube.com/watch?v=_LFF45rpgq0)  
 
 - **Deliverables:**  
   - Advanced features like volume control and real-time state updates.
@@ -133,8 +133,8 @@ This project is structured to ensure a systematic and incremental development pr
 - **Goal:** Test and deploy the application.  
 - **Tasks:**  
   1. Test the application for functionality and bugs.  
-     - **Reading:** [React Testing Library Guide](https://testing-library.com/docs/react-testing-library/intro/)  
-     - **Video:** [Testing React Apps](https://www.youtube.com/watch?v=8Xwq35cPwYg)  
+     - **Reading:** [Next Testing Library Guide](https://nextjs.org/docs/app/building-your-application/testing)  
+     - **Video:** [Testing Next Apps](https://www.youtube.com/watch?v=AS79oJ3Fcf0)  
   2. Deploy the app on Vercel.  
      - **Reading:** [Vercel Deployment Guide](https://vercel.com/docs)  
      - **Video:** [Deploying Next.js Apps](https://www.youtube.com/watch?v=2HBIzEx6IZA)  
