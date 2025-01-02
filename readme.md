@@ -52,8 +52,6 @@ To build an immersive music streaming platform that replicates key Spotify funct
 ## **Workflow Overview**
 The application workflow includes user authentication through Spotify, fetching playlists, controlling playback, and navigating through a responsive interface.
 
-### **Flowchart**  
-![Flowchart Placeholder](https://via.placeholder.com/800x400.png?text=Flowchart+Placeholder)
 
 ---
 
@@ -145,11 +143,19 @@ This project is structured to ensure a systematic and incremental development pr
   - Fully deployed MusicNext application.
 
 ---
+### Screenshsots
+![Screenshot (535)](https://github.com/user-attachments/assets/b74cb8ee-1496-4619-b31a-d45a197d2860)
+![Screenshot (536)](https://github.com/user-attachments/assets/19f03a13-cd1b-4445-9784-d2b2e2bfa465)
+![Screenshot (534)](https://github.com/user-attachments/assets/1866c6a3-477a-4d20-92f4-c61050f88b6f)
+
+---
 
 ### **References**
 1. [Next.js Documentation](https://nextjs.org/docs)  
 2. [Tailwind CSS Documentation](https://tailwindcss.com/docs)  
 3. [NextAuth Documentation](https://next-auth.js.org/)  
 4. [Spotify API Documentation](https://developer.spotify.com/documentation/web-api/)  
-5. [Recoil Documentation](https://recoiljs.org/docs/introduction/getting-started)  
+5. [Recoil Documentation](https://recoiljs.org/docs/introduction/getting-started)
+6. https://www.youtube.com/watch?v=3xrko3GpYoU 
+
 
